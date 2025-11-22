@@ -1,2 +1,4 @@
-# Learning-git-and-git-hub-basics
-learning
+# Learning-git-and-git-hub-basic
+
+
+git remote add origin
